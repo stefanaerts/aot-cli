@@ -4,4 +4,4 @@
  */
  /* tslint:disable */
 
-export const styles:any[] = ['input.ng-invalid[_ngcontent-%COMP%] {\r\n    border-left-color: deeppink;\r\n    border-left-style: solid;\r\n    border-left-width: 5px;\r\n}\r\n\r\ninput.ng-valid[_ngcontent-%COMP%] {\r\n    border-left-color: chartreuse;\r\n    border-left-style: solid;\r\n    border-left-width: 5px;\r\n}'];
+export const styles:any[] = ['input.ng-invalid[_ngcontent-%COMP%] {\n    border-left-color: deeppink;\n    border-left-style: solid;\n    border-left-width: 5px;\n}\n\ninput.ng-valid[_ngcontent-%COMP%] {\n    border-left-color: chartreuse;\n    border-left-style: solid;\n    border-left-width: 5px;\n}'];
